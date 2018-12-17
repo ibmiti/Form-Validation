@@ -2,3 +2,6 @@
 More complex form validation can be done using Javascript.
 The form element has an onsubmit event that can be handled to perform validation.
 For example, lets create a form with two inputs and one button. the text in both fields should be the same and not blank to pass the validation. -->
+
+
+<!-- // never rely on html5 and javascript for secure form validation they can both be disabled. always validate your forms on the server side -->
